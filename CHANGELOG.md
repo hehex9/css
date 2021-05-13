@@ -1,5 +1,11 @@
 # @primer/css
 
+## 18.0.0-next.0
+
+### Major Changes
+
+- [#1401](https://github.com/primer/css/pull/1401) [`ca4c082c`](https://github.com/primer/css/commit/ca4c082cf88624c3b5077de6017dea89a4125d22) Thanks [@jonrohan](https://github.com/jonrohan)! - Test
+
 ## 17.0.1
 
 ### Patch Changes
